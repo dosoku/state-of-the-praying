@@ -11,5 +11,6 @@ $ open book.pdf
 
 - automake
 - platex
-- + [zr-tex8r/BXcoloremoji](https://github.com/zr-tex8r/BXcoloremoji)
+  + [zr-tex8r/BXcoloremoji](https://github.com/zr-tex8r/BXcoloremoji)
+- pandoc
 
